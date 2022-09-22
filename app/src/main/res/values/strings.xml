@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+    <string name="username">Username</string>
+    <string name="welcome_to_login_demo">Welcome To Login Demo</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="no_of_incorrect_attempts">No of incorrect attempts:</string>
+    <string name="textview">TextView</string>
+    <string name="required">Required</string>
+</resources>
